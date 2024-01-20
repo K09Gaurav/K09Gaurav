@@ -26,10 +26,6 @@ Welcome to my GitHub profile! I'm passionate about Data And Its Impact on our Da
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K09Gaurav&theme=dark)
 
-## Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K09Gaurav&layout=compact&theme=dark)](https://github.com/K09Gaurav)
-
 ## Projects
 
 ### SQL Project on COvid
@@ -43,6 +39,10 @@ Used SQL in SSMS to analyse and research on what kind of data can be retrieved o
 [![Project 2](https://img.shields.io/badge/-Project%202-green)](https://github.com/K09Gaurav/SQL_Data_Cleaning)
 
 Used SQL in SSMS on Housing Data to Clean , Organize and delete Duplicate Data present in the Dataset.The main objectives of this project are to identify and handle missing data, remove duplicate entries, standardize and format data, and perform any necessary data transformations.
+<!--## Top Languages
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K09Gaurav&layout=compact&theme=dark)](https://github.com/K09Gaurav)
+
+>
 <!--[![LinkedIn](https://img.shields.io/badge/[LinkedIn-Kashif-Equbal](https://www.linkedin.com/in/kashif-equbal-3b0130230/)-blue)]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/kashif-equbal-3b0130230/))
 <!--[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-green)](https://twitter.com/yourhandle)-->
