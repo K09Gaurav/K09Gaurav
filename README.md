@@ -5,14 +5,13 @@ Welcome to my GitHub profile! I'm passionate about Data And Its Impact on our Da
 
 ## About Me
 
-- 🌐 [Portfolio: ]([Website](https://k09gaurav.github.io/GauravPortfolio.github.io)) 
+- 🌐 Portfolio: [Link](https://k09gaurav.github.io/GauravPortfolio.github.io)
 - 📫 How to reach me: [kumargaura009@gmail.com](mailto:kumargaura009@gmail.com)
 - 😄 Gender: Male
 
 ## Skills
 
 - 💻 Programming Languages: Python, SQL, C, C++
-<!-- 🚀 Frameworks: React, Flask, Spring Boot-->
 - 🌐 Web Technologies: HTML, CSS
 - 💻 Tools: MySQL, Oracle, VSCode, Microsoft SQL Server Management, PowerBI, Excel, Tableau, Jupyter Notebook
 ## GitHub Stats
