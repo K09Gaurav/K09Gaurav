@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about Data And Its Impact on our Da
 
 ## About Me
 
-- 🌐 Portfolio: [Link](https://k09gaurav.github.io/GauravPortfolio.github.io)
+- 🌐 Portfolio: [Link](https://k09gaurav.github.io/GauravPortfolio.github.io/)
 - 📫 How to reach me: [kumargaura009@gmail.com](mailto:kumargaura009@gmail.com)
 - 😄 Gender: Male
 
